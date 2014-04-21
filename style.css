@@ -1,5 +1,6 @@
 /*CSS Style Document*/
 
+
 p{
 	color:red;
 }
@@ -15,4 +16,29 @@ ul{
 
 h1{
 	font-family: "Helvetica Neue", sans-serif;
+}
+
+#purple-paragraph{
+	color: violet;
+}
+
+#big-image{
+	height: 1000px;
+	width: 1000px;
+}
+
+#small-image{
+	height: 10px;
+	width: 10px;
+}
+
+.byline{
+	font-family: cursive;
+	font-size: 20px;
+	text-transform: uppercase;
+}
+
+#purple-list{
+	background-color: violet;
+
 }
